@@ -1,3 +1,2 @@
-#LICENSING
-
-##COPYRIGHT
+#LICENSE
+thi is the official license
