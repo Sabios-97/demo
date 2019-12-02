@@ -2,7 +2,9 @@
 
 i am happy to learn git
 
-Conflict causing line from master branch
+
+This semms to be big trouble from verybad
+
 
 changes made to be viwed by the diff command
 added some lines from the updates branch
