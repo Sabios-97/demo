@@ -2,7 +2,7 @@
 
 i am happy to learn git
 
-changes are made
+Conflict causing line from master branch
 
 changes made to be viwed by the diff command
 added some lines from the updates branch
