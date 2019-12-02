@@ -1,2 +1,2 @@
 #LICENSE
-thi is the official license
+thi is the official license for version 1.0
